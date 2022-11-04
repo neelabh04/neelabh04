@@ -11,9 +11,12 @@ Ad qui elit non fugiat est ullamco. In irure consequat nostrud pariatur. Tempor 
 
 Officia veniam do ullamco anim occaecat cillum commodo laborum labore aliquip exercitation. Aute voluptate ea nulla cupidatat incididunt elit ea laborum reprehenderit amet consectetur duis.
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+&nbsp;&nbsp;
 
 ## ⚡️ A Few Quick Facts
+
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 - Eiusmod sint adipisicing veniam nostrud exercitation reprehenderit commodo cillum aliqua qui cupidatat. 
 
 - Fugiat laboris incididunt laborum ut proident dolore. Qui aliquip eiusmod dolore duis. Sunt elit enim exercitation fugiat.
@@ -23,6 +26,22 @@ Officia veniam do ullamco anim occaecat cillum commodo laborum labore aliquip ex
 - Magna laboris ut fugiat cupidatat. Ipsum id irure cillum proident exercitation qui ut esse magna. Reprehenderit non excepteur consectetur enim quis minim esse.
 
 &nbsp;&nbsp;
+
+## 🎏 Talking about Personal Stuff:
+
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, Mongodb, Javascript, etc.
+- 🚀 &nbsp; I’m currently working on Full Stack Development projects.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/neelabh04).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/neelabh04/neelabh04/issues/1)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal **_is not_** Always Equal in Javascript.
+
+## My Absolute Favorites:
+
+- 💻 &nbsp; Exploring new tech stack and building cool stuffs.
+- 📰 &nbsp; Reading tech blogs whenever possible.
+- 🍕 &nbsp; Meet and connect with new people.
+- 📺 &nbsp; Meetups & tech events.
+
 ## Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/neelabh04#gh-light-mode-only)
@@ -31,12 +50,3 @@ Officia veniam do ullamco anim occaecat cillum commodo laborum labore aliquip ex
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/neelabh-singh#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/neelabh-singh#gh-dark-mode-only)
 &nbsp;&nbsp;
-
-&nbsp;&nbsp;
-## 🎏 Talking about Personal Stuff:
-
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently working on Full Stack Development projects.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/neelabh04).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/neelabh04/neelabh04/issues/1)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal **_is not_** Always Equal in Javascript.
