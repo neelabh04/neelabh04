@@ -36,7 +36,7 @@ const neelabh = {
         databases: ["mongo", "MySql"],
     },
     currentFocus: "Looking to collaborate with awesome people to solve real world problems",
-    futureGoals: "To contribute more in open source, learn mobile development, explore new frontend technologies. ",
+    futureGoals: "To contribute more in open source, learn mobile development, explore new frontend technologies.",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
@@ -51,13 +51,13 @@ const neelabh = {
 
 - 🚀 &nbsp;I’m currently working on Full Stack Development projects.
 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/neelabh04).
+- 👨🏻‍💻 &nbsp;Most of my projects are available on [Github](https://github.com/neelabh04?tab=repositories).
 
-- 🌱  I’m currently learning Flutter.
+- 🌱 &nbsp;I’m currently learning Flutter.
 
 - 💬 &nbsp;Ask me about anything [here](https://github.com/neelabh04/neelabh04/issues/1)! I am happy to help.
 
-- 👾 &nbsp; Fun fact: Equal **_is not_** Always Equal in Javascript.
+- 👾 &nbsp;Fun fact: Equal **_is not_** Always Equal in Javascript.
 
 - <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> I love connecting with people so hit me up on any of the social media links above.
 
