@@ -1,5 +1,3 @@
-<!-- <img align='left' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="100%" /> -->
-
 <img width="100%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 &nbsp;&nbsp;
@@ -7,6 +5,12 @@
 # नमस्ते (Namaste)🙏🏻, I'm Neelabh Shanker Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 <!-- Add visitor count here -->
+[![website](./img/twitter-light.svg)](https://twitter.com/neelabh04#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/neelabh04#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/neelabh-singh#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/neelabh-singh#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 Hi, I'm glad you reached here 😄. 
 
@@ -52,9 +56,7 @@ const neelabh = {
 
 - 👾 &nbsp; Fun fact: Equal **_is not_** Always Equal in Javascript.
 
-&nbsp;&nbsp;
-
-## 🎏 Github Stats
+- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> I love connecting with people so hit me up on any of the social media links below.
 
 ## ⚒️ Languages and Tools
 
@@ -73,17 +75,11 @@ const neelabh = {
 
 &nbsp;&nbsp;
 
-## My Absolute Favorites:
+## 🎏 Github Stats
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=neelabh04&show_icons=true&count_private=true&theme=tokyonight#gh-dark-mode-only" />
 
-- 💻 &nbsp; Exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading tech blogs whenever possible.
-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> I love connecting with people so hit me up on any of the social media links below.
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=neelabh04&show_icons=true&count_private=true&theme=default#gh-light-mode-only" />
 
-## Connect with me:
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelabh04&layout=compact&theme=tokyonight#gh-dark-mode-only" />
 
-[![website](./img/twitter-light.svg)](https://twitter.com/neelabh04#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/neelabh04#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/neelabh-singh#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/neelabh-singh#gh-dark-mode-only)
-&nbsp;&nbsp;
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelabh04&layout=compact&theme=default#gh-light-mode-only" />
