@@ -10,8 +10,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/neelabh04#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/neelabh04#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/neelabh-singh#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/neelabh-singh#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/neelabh04#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/neelabh04#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Hi, I'm glad you reached here 😄. 
