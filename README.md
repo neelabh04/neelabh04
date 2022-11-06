@@ -79,12 +79,13 @@ const neelabh = {
 
 ## 🎏 Github Stats
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=neelabh04&theme=monokai-metallian&hide_border=true"/>
-</div>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=neelabh04&show_icons=true&count_private=true&theme=tokyonight" >
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelabh04&layout=compact&theme=tokyonight" />
 
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img alt="Neelabh's streak" src="https://streak-stats.demolab.com/?user=neelabh04&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
