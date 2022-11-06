@@ -61,22 +61,42 @@ const neelabh = {
 
 - <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> I love connecting with people so hit me up on any of the social media links above.
 
-## ⚒️ Languages and Tools
+## ⚒️ Languages, Frameworks, Tools & Abilities
+<img title="Visual Studio Code" height="30" src="img/vscode.png" style="padding-right:10px;">
+<img title="Problem Solving" height="30" src="img/problemSolving.png" style="padding-right:10px;">
+<img title="Java" height="30" src="img/java-original.svg" style="padding-right:10px;">
+<img title="MySQL" height="30" src="img/mysql.svg" style="padding-right:10px;">
+<img title="HTML5" height="30" src="img/html5.svg" style="padding-right:10px;">
+<img title="CSS" height="30" src="img/css.svg" style="padding-right:10px;">
+<img title="SASS" height="30" src="img/sass.svg" style="padding-right:10px;">
+<img title="Javascript" height="30" src="img/javascript.svg" style="padding-right:10px;">
+<img title="React" height="30" src="img/react-original.svg" style="padding-right:10px;">
+<img title="Redux" height="30" src="img/redux.svg" style="padding-right:10px;">
+<img title="MongoDB" height="30" src="img/mongodb.svg" style="padding-right:10px;">
+<img title="npm" height="30" src="img/npm.svg" style="padding-right:10px;">
+<img title="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;">
+<img title="Postman" height="30" src="img/postman.svg" style="padding-right:10px;">
+<img title="Git" height="30" src="img/git-original.svg" style="padding-right:10px;">
+<!-- <img title="GitHub" height="30" src="img/github.svg" style="padding-right:10px;"> -->
+<img title="GitHub" height="30" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding-right:10px;">
+<img title="GitHub" height="30" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;">
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+
+
+
+<!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left"  alt="Java" width="26px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="SASS" width="26px" src="https://seeklogo.com/images/S/sass-logo-E41E7734A8-seeklogo.com.png" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;" />
-<img align="left" alt="Postman" width="26px" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" style="padding-right:10px;" />
+<img align="left" alt="Postman" width="26px" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" style="padding-right:10px;" /> -->
 
-&nbsp;&nbsp;
+<!-- &nbsp;&nbsp; -->
 
 ## 🎏 Github Stats
 
