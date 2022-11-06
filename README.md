@@ -49,17 +49,17 @@ const neelabh = {
 
 - 🤣 &nbsp;This is the place where I try to create new stuff and break things.
 
-- 🚀 &nbsp; I’m currently working on Full Stack Development projects.
+- 🚀 &nbsp;I’m currently working on Full Stack Development projects.
 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/neelabh04).
 
 - 🌱  I’m currently learning Flutter.
 
-- 💬 &nbsp; Ask me about anything [here](https://github.com/neelabh04/neelabh04/issues/1)! I am happy to help.
+- 💬 &nbsp;Ask me about anything [here](https://github.com/neelabh04/neelabh04/issues/1)! I am happy to help.
 
 - 👾 &nbsp; Fun fact: Equal **_is not_** Always Equal in Javascript.
 
-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> I love connecting with people so hit me up on any of the social media links below.
+- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> I love connecting with people so hit me up on any of the social media links above.
 
 ## ⚒️ Languages and Tools
 
@@ -79,7 +79,6 @@ const neelabh = {
 &nbsp;&nbsp;
 
 ## 🎏 Github Stats
-
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=neelabh04&show_icons=true&count_private=true&theme=tokyonight" >
 
