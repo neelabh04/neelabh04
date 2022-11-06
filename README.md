@@ -14,9 +14,10 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/neelabh-singh#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-Hi, I'm glad you reached here 😄. 
+### Hi, I'm glad you reached here 😄. 
+I'm a graduate in Electrical and Electronics Engineering 🎓 from Guru Gobing Singh Indraprashtha University 🏛 and currently working at **[Infosys](https://www.infosys.com/).** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-I'm a passionate full stack web developer from India and currently working at **[Infosys](https://www.infosys.com/).** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+ I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -34,7 +35,7 @@ const neelabh = {
         },
         databases: ["mongo", "MySql"],
     },
-    currentFocus: "Looking to work with awesome people to solve real world problems",
+    currentFocus: "Looking to collaborate with awesome people to solve real world problems",
     futureGoals: "To contribute more in open source, learn mobile development, explore new frontend technologies. ",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
@@ -84,8 +85,12 @@ const neelabh = {
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelabh04&layout=compact&theme=tokyonight" />
 
+<img src="https://activity-graph.herokuapp.com/graph?username=neelabh04&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="Neelabh's streak" src="https://streak-stats.demolab.com/?user=neelabh04&theme=monokai-metallian&hide_border=true"/>
-  </a>
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
 </p>
+
+<div align="center">
+<h3> Made with ❤️ in India! </h3>
+</div>
