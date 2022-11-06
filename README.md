@@ -62,6 +62,7 @@ const neelabh = {
 - <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> I love connecting with people so hit me up on any of the social media links above.
 
 ## ⚒️ Languages, Frameworks, Tools & Abilities
+<p align=center>
 <img title="Visual Studio Code" height="30" src="img/vscode.png" style="padding-right:10px;">
 <img title="Problem Solving" height="30" src="img/problemSolving.png" style="padding-right:10px;">
 <img title="Java" height="30" src="img/java-original.svg" style="padding-right:10px;">
@@ -80,7 +81,7 @@ const neelabh = {
 <!-- <img title="GitHub" height="30" src="img/github.svg" style="padding-right:10px;"> -->
 <img title="GitHub" height="30" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding-right:10px;">
 <img title="GitHub" height="30" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;">
-
+</p>
 
 
 
