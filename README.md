@@ -5,6 +5,8 @@
 # नमस्ते (Namaste)🙏🏻, I'm Neelabh Shanker Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 <!-- Add visitor count here -->
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fneelabh04&countColor=%23263759)
+&nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/neelabh04#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/neelabh04#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -77,6 +79,12 @@ const neelabh = {
 
 ## 🎏 Github Stats
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=neelabh04&show_icons=true&count_private=true&theme=tokyonight#gh-dark-mode-only" >
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=neelabh04&theme=monokai-metallian&hide_border=true"/>
+</div>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelabh04&layout=compact&theme=tokyonight#gh-dark-mode-only" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=neelabh04&show_icons=true&count_private=true&theme=tokyonight" >
+
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelabh04&layout=compact&theme=tokyonight" />
+
+
