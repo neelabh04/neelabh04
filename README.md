@@ -76,10 +76,7 @@ const neelabh = {
 &nbsp;&nbsp;
 
 ## 🎏 Github Stats
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=neelabh04&show_icons=true&count_private=true&theme=tokyonight#gh-dark-mode-only" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=neelabh04&show_icons=true&count_private=true&theme=default#gh-light-mode-only" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=neelabh04&show_icons=true&count_private=true&theme=tokyonight#gh-dark-mode-only" >
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelabh04&layout=compact&theme=tokyonight#gh-dark-mode-only" />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelabh04&layout=compact&theme=default#gh-light-mode-only" />
