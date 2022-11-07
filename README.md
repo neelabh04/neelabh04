@@ -107,8 +107,12 @@ const neelabh = {
 
 <img src="https://activity-graph.herokuapp.com/graph?username=neelabh04&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
+</p> -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
 
 <div align="center">
