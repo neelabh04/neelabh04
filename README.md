@@ -5,10 +5,13 @@
 # नमस्ते (Namaste)🙏🏻, I'm Neelabh Shanker Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 <!-- Add visitor count here -->
-![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fneelabh04&countColor=%23263759)
-&nbsp;&nbsp;
+<!-- ![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fneelabh04&countColor=%23263759) -->
+<!-- &nbsp;&nbsp; -->
 [![website](./img/twitter-light.svg)](https://twitter.com/neelabh04#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/neelabh04#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/neelabh04#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/neelabh04#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/neelabh04#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/neelabh04#gh-dark-mode-only)
