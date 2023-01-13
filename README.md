@@ -10,12 +10,12 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/neelabh04#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/neelabh04#gh-dark-mode-only)
 &nbsp;&nbsp;
-<!-- [![website](./img/instagram-light.svg)](https://instagram.com/neelabh04#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/neelabh04#gh-dark-mode-only) -->
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/neelabh04#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/neelabh04#gh-dark-mode-only)
 &nbsp;&nbsp;
+<!-- [![website](./img/instagram-light.svg)](https://instagram.com/neelabh04#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/neelabh04#gh-dark-mode-only)
+&nbsp;&nbsp; -->
 
 ### Hi, I'm glad you reached here 😄. 
 I'm a graduate in Electrical and Electronics Engineering 🎓 from Guru Gobing Singh Indraprashtha University 🏛 and currently working at **[Infosys](https://www.infosys.com/).** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
