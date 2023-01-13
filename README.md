@@ -10,8 +10,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/neelabh04#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/neelabh04#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/neelabh04#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/neelabh04#gh-dark-mode-only)
+<!-- [![website](./img/instagram-light.svg)](https://instagram.com/neelabh04#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/neelabh04#gh-dark-mode-only) -->
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/neelabh04#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/neelabh04#gh-dark-mode-only)
@@ -102,13 +102,13 @@ const neelabh = {
 
 <!-- &nbsp;&nbsp; -->
 
-## 🎏 Github Stats
+<!-- ## 🎏 Github Stats
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=neelabh04&show_icons=true&count_private=true&theme=tokyonight" >
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelabh04&layout=compact&theme=tokyonight" />
 
-<img src="https://activity-graph.herokuapp.com/graph?username=neelabh04&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=neelabh04&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
 
 <!-- <p align="center">
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
