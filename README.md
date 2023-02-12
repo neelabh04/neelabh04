@@ -1,6 +1,4 @@
-
-
-![image](https://github.githubassets.com/images/modules/site/home/footer-illustration.svg)
+<img width="100%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 &nbsp;&nbsp;
 
@@ -120,7 +118,7 @@ const neelabh = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p> -->
 
-<img width="100%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
 <div align="center">
 <h3> Made with ❤️ in India! </h3>
@@ -129,3 +127,5 @@ const neelabh = {
 <h4 align="center">
   <a href="https://github.com/neelabh04?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
+![image](https://github.githubassets.com/images/modules/site/home/footer-illustration.svg)
