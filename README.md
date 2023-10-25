@@ -18,7 +18,7 @@
 &nbsp;&nbsp; -->
 
 ### Hi, I'm glad you reached here 😄. 
-I'm a graduate in Electrical and Electronics Engineering 🎓 from Guru Gobing Singh Indraprashtha University 🏛 and currently working at **[Infosys](https://www.infosys.com/).** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I'm a graduate in Electrical and Electronics Engineering 🎓 from Guru Gobing Singh Indraprashtha University 🏛 and currently working at **[QuestionPro](https://www.questionpro.com/).** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
  I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 
 
@@ -34,7 +34,7 @@ const neelabh = {
             js: ["React"]
         },
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node", "Express", Struts],
         },
         databases: ["mongo", "MySql"],
     },
@@ -56,7 +56,7 @@ const neelabh = {
 
 - 👨🏻‍💻 &nbsp;Most of my projects are available on [Github](https://github.com/neelabh04?tab=repositories).
 
-- 🌱 &nbsp;I’m currently learning Flutter.
+- 🌱 &nbsp;I’m currently learning how to deliver scalable solutions by asking the right questions.
 
 - 💬 &nbsp;Ask me about anything [here](https://github.com/neelabh04/neelabh04/issues/1)! I am happy to help.
 
