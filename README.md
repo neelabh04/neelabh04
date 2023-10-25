@@ -34,7 +34,7 @@ const neelabh = {
             js: ["React"]
         },
         backEnd: {
-            js: ["Node", "Express", Struts],
+            js: ["Node", "Express", "Struts"],
         },
         databases: ["mongo", "MySql"],
     },
