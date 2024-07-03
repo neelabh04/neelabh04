@@ -18,7 +18,7 @@
 &nbsp;&nbsp; -->
 
 ### Hi, I'm glad you reached here 😄. 
-I'm a graduate in Electrical and Electronics Engineering 🎓 from Guru Gobing Singh Indraprashtha University 🏛 and currently working at **[QuestionPro](https://www.questionpro.com/).** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I'm a graduate in Electrical and Electronics Engineering 🎓 from Guru Gobing Singh Indraprashtha University 🏛 and currently working at **[Explicate Inc](https://www.explicateinc.com/).** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
  I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 
 
